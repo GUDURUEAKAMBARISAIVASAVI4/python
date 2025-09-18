@@ -1,5 +1,5 @@
 #python program to print your name
-print("hema latha")
+print("vasavi")
 
 #to print name by getting input from the user
 name=input("Enter your name")
